@@ -1,1 +1,1 @@
-# online_book_store_management
+# Journal App
