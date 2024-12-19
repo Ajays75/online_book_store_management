@@ -1,1 +1,1 @@
-# Journal App
+# Journal_App
